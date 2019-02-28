@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.Form1.resources
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.Properties.Resources.resources
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\multi_txtboxs\bin\Debug\multi_txtboxs.exe.config
+C:\Users\Administrator\source\repos\multi_txtboxs\bin\Debug\multi_txtboxs.exe
+C:\Users\Administrator\source\repos\multi_txtboxs\bin\Debug\multi_txtboxs.pdb
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.exe
+C:\Users\Administrator\source\repos\multi_txtboxs\obj\Debug\multi_txtboxs.pdb
