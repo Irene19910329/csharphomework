@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\multi_keyboard\bin\Debug\multi_keyboard.exe.config
+C:\Users\Administrator\source\repos\multi_keyboard\bin\Debug\multi_keyboard.exe
+C:\Users\Administrator\source\repos\multi_keyboard\bin\Debug\multi_keyboard.pdb
+C:\Users\Administrator\source\repos\multi_keyboard\obj\Debug\multi_keyboard.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\multi_keyboard\obj\Debug\multi_keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\multi_keyboard\obj\Debug\multi_keyboard.exe
+C:\Users\Administrator\source\repos\multi_keyboard\obj\Debug\multi_keyboard.pdb
